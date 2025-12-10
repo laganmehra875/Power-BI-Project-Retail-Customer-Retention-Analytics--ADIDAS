@@ -59,7 +59,7 @@ Promotion-driven transactions form a large share of total sales, highlighting de
 
 Non-promotion transactions remain steady but contribute less compared to promo periods.
 
-- 4. Store & Channel Performance
+- 4 Store & Channel Performance
 
 Some store locations consistently outperform others in revenue and customer retention.
 
