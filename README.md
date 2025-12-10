@@ -20,3 +20,13 @@ The objective of this project is to analyze Adidas customer, transaction, loyalt
 
 
 - <a href="https://github.com/laganmehra875/Power-BI-Project-Retail-Customer-Retention-Analytics--ADIDAS/blob/main/project%203.pbix">ADIDAS Power BI Project </a>
+
+## 📊 Key Features of the  Presentation on MS Word :
+
+Cleanly formatted Power BI Measures Metrics
+
+Output tables directly pasted from the MS-Word
+
+Visualizations for churn rate KPI , Customer segmentation , Customer lifetime value (CLV)
+
+Actionable insights and recommendations
