@@ -18,4 +18,5 @@ The objective of this project is to analyze Adidas customer, transaction, loyalt
 ## ADIDAS Power BI Project :
 - <a href="https://github.com/laganmehra875/Power-BI-Project-Retail-Customer-Retention-Analytics--ADIDAS/blob/main/lalit%20mehra%20project%203%20power%20bi.pbix"> ADIDAS Power BI Project </a>
 
--<a href="https://github.com/laganmehra875/Power-BI-Project-Retail-Customer-Retention-Analytics--ADIDAS/blob/main/project%203.pbix">ADIDAS Power BI Project </a>
+
+- <a href="https://github.com/laganmehra875/Power-BI-Project-Retail-Customer-Retention-Analytics--ADIDAS/blob/main/project%203.pbix">ADIDAS Power BI Project </a>
