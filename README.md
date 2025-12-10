@@ -14,3 +14,8 @@ The objective of this project is to analyze Adidas customer, transaction, loyalt
 - <a href="https://github.com/laganmehra875/Power-BI-Project-Retail-Customer-Retention-Analytics--ADIDAS/blob/main/Loyalty%20adidas%20metadata%20-%20Loyalty_Program%20(1).csv">  Raw Dataset used : Loyalty adidas metadata </a>
 
 - <a href="https://github.com/laganmehra875/Power-BI-Project-Retail-Customer-Retention-Analytics--ADIDAS/blob/main/customer%20churned%20-%20Churn_Labelled_Customers%20(1).csv">  Raw Dataset used :  Churn_Labelled_Customers </a>
+
+## ADIDAS Power BI Project :
+- <a href="https://github.com/laganmehra875/Power-BI-Project-Retail-Customer-Retention-Analytics--ADIDAS/blob/main/lalit%20mehra%20project%203%20power%20bi.pbix"> ADIDAS Power BI Project </a>
+
+-<a href="https://github.com/laganmehra875/Power-BI-Project-Retail-Customer-Retention-Analytics--ADIDAS/blob/main/project%203.pbix">ADIDAS Power BI Project </a>
