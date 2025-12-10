@@ -5,4 +5,12 @@
 The objective of this project is to analyze Adidas customer, transaction, loyalty, and store data to uncover behavioral patterns, segment customers, evaluate store performance, and build predictive models to identify churn risk. The goal is to generate data-driven insights that support improved marketing strategies, customer retention, and overall business growth.
 
 ## Flipkart Raw Dataset Used :
-- <a href="https://github.com/laganmehra875/Power-BI-Project-Retail-Customer-Retention-Analytics--ADIDAS/blob/main/Adidas%20customer%20transactional%20%20-%20Customer_Transactions%20(1).csv"> Raw Dataset used : Customer_Transactions</a>
+- <a href="https://github.com/laganmehra875/Power-BI-Project-Retail-Customer-Retention-Analytics--ADIDAS/blob/main/Adidas%20customer%20transactional%20%20-%20Customer_Transactions%20(1).csv"> Raw Dataset used : Adidas Customer_Transactions</a>
+
+- <a href="https://github.com/laganmehra875/Power-BI-Project-Retail-Customer-Retention-Analytics--ADIDAS/blob/main/Adidas%20store%20locations%20-%20Store_Locations%20(1).csv"> Raw Dataset used :Adidas store locations </a>
+
+-<a href="https://github.com/laganmehra875/Power-BI-Project-Retail-Customer-Retention-Analytics--ADIDAS/blob/main/Customer%20demographics%20adidas%20-%20Customer_Demographics%20(1).csv">  Raw Dataset used : Customer demographics adidas </a>
+
+-<a href="https://github.com/laganmehra875/Power-BI-Project-Retail-Customer-Retention-Analytics--ADIDAS/blob/main/Loyalty%20adidas%20metadata%20-%20Loyalty_Program%20(1).csv">  Raw Dataset used : Loyalty adidas metadata </a>
+
+-<a href="https://github.com/laganmehra875/Power-BI-Project-Retail-Customer-Retention-Analytics--ADIDAS/blob/main/customer%20churned%20-%20Churn_Labelled_Customers%20(1).csv">  Raw Dataset used :  Churn_Labelled_Customers </a>
