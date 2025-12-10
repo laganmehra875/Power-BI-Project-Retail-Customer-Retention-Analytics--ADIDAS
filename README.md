@@ -30,3 +30,5 @@ Output tables directly pasted from the MS-Word
 Visualizations for churn rate KPI , Customer segmentation , Customer lifetime value (CLV)
 
 Actionable insights and recommendations
+
+- MS - WORD Presentation : <a href="https://github.com/laganmehra875/Power-BI-Project-Retail-Customer-Retention-Analytics--ADIDAS/blob/main/POWER%20BI%20PROJECT%20PRESENTATION.docx"> ADIDAS Presentation file </a>
