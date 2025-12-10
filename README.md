@@ -35,7 +35,7 @@ Actionable insights and recommendations
 
 ## KEY FINDINGS
 
-- 1. Customer Churn & Retention
+- 1 Customer Churn & Retention
 
 A noticeable percentage of customers are churned, indicating retention issues.
 
@@ -43,7 +43,7 @@ Repeat customers represent a smaller portion, showing limited long-term engageme
 
 Churned customers often show low purchase frequency and long gaps between purchases.
 
-- 2. Customer Segmentation & Loyalty
+- 2 Customer Segmentation & Loyalty
 
 Most customers fall under low or mid-tier loyalty segments.
 
@@ -51,7 +51,7 @@ High-tier customers spend significantly more and purchase more frequently.
 
 Loyalty program participation strongly correlates with increased revenue.
 
-- 3. Purchase Behavior & Transaction Analysis
+- 3 Purchase Behavior & Transaction Analysis
 
 Average purchase frequency suggests customers buy infrequently, reducing lifetime value.
 
@@ -67,7 +67,7 @@ Online channels show stronger repeat purchase behavior compared to offline store
 
 Store performance varies widely, signaling uneven customer experience across regions.
 
-- 5. Customer Lifetime Value (CLV)
+- 5 Customer Lifetime Value (CLV)
 
 Majority of customers are in the low CLV segment.
 
@@ -77,31 +77,31 @@ High CLV customers show longer membership duration and stable purchase behavior.
 
 ## RECOMMENDATIONS
 
-- 1. Improve Customer Retention
+- 1 Improve Customer Retention
 
 Launch targeted win-back campaigns for customers with high "days since last purchase."
 
 Personalize email offers based on churn signals and past product interests.
 
-- 2. Strengthen Loyalty Program
+- 2 Strengthen Loyalty Program
 
 Introduce better benefits for mid-tier customers to encourage movement to high-tier.
 
 Provide exclusive rewards to high-tier customers to maintain loyalty and increase CLV.
 
-- 3. Reduce Over-Reliance on Promotions
+- 3 Reduce Over-Reliance on Promotions
 
 Shift from discount-heavy strategies to value-driven offers (bundles, early access).
 
 Identify customer groups sensitive to discounts and design controlled promotions.
 
-- 4. Optimize Store & Channel Performance
+- 4 Optimize Store & Channel Performance
 
 Improve staff training and in-store experience for low-performing locations.
 
 Promote online channels for seamless repeat purchases and subscription-based programs.
 
-- 5. Boost Customer Lifetime Value (CLV)
+- 5 Boost Customer Lifetime Value (CLV)
 
 Create personalized product recommendations for high-value customers.
 
