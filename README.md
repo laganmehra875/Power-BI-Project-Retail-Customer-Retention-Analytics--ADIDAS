@@ -33,7 +33,7 @@ Actionable insights and recommendations
 
 - MS - WORD Presentation : <a href="https://github.com/laganmehra875/Power-BI-Project-Retail-Customer-Retention-Analytics--ADIDAS/blob/main/POWER%20BI%20PROJECT%20PRESENTATION.docx"> ADIDAS Presentation file </a>
 
-## KEY FINDINGS
+## 🔍 KEY FINDINGS
 
 - 1 Customer Churn & Retention
 
@@ -75,7 +75,7 @@ High CLV customers show longer membership duration and stable purchase behavior.
 
 “Days Since Last Purchase” helps predict churn risk with good accuracy.
 
-## RECOMMENDATIONS
+## 💡RECOMMENDATIONS
 
 - 1 Improve Customer Retention
 
