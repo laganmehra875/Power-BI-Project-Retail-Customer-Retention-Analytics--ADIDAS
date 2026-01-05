@@ -107,7 +107,7 @@ Create personalized product recommendations for high-value customers.
 
 Implement a predictive churn model to intervene before customers stop purchasing.
 
-## CONCLUSION
+## ✅CONCLUSION
 
 This Adidas analytics project reveals clear opportunities to enhance customer engagement, optimize loyalty programs, and improve store performance. While promotions drive significant sales, sustainable long-term growth depends on increasing customer loyalty, boosting CLV, and reducing churn. By leveraging data-driven strategies and targeted interventions, Adidas can build a more profitable, customer-centric business model with consistent repeat purchases and stronger customer relationships.
 
